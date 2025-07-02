@@ -53,7 +53,3 @@ Le résultat pour la paire Sidi (ID 1) et Mohamed (ID 2) s’affichera au format
 ## Tests
 
 Des tests unitaires sont disponibles dans `tests/test_common_friends.py`.
-
-## Auteur
-
-Projet réalisé pour l’initiation à Spark (PySpark).
