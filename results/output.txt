@@ -1,0 +1,4 @@
+# Résultats de l’exécution du script PySpark
+# À remplir après exécution :
+# Exemple attendu :
+# 1<Sidi>2<Mohamed>[3, 4]
