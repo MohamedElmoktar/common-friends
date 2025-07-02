@@ -26,8 +26,6 @@ tp-spark/
 │   └── common_friends.py
 ├── tests/
 │   └── test_common_friends.py
-├── results/
-│   └── output.txt
 ├── README.md
 └── requirements.txt
 ```
